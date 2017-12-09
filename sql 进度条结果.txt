@@ -1,5 +1,5 @@
 ﻿sampleId	analysising	hasAnalysis	fristAudit	secondAudit	terminate
-77	0	0	0	0	0
+77	11111111111111111111111111111111111111
 78	0	0	0	0	0
 80	0	0	0	0	0
 81	0	0	0	0	0
