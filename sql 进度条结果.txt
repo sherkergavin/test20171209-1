@@ -1,12 +1,7 @@
 ﻿sampleId	analysising	hasAnalysis	fristAudit	secondAudit	terminate
 1005	1	0	0	0	0
 1006	1	0	0	0	0
-1007	2	0	0	0	0
-1008	1	0	0	0	0
-1009	1	0	0	0	0
-1010	2	0	0	0	0
-1011	1	0	0	0	0
-1013	1	0	0	0	0
+100
 1014	1	0	0	0	0
 1015	1	0	0	0	0
 1016	1	0	0	0	0
